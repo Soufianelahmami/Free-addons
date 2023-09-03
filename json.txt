@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"The integration of artificial intelligence (AI) into free add-ons is a game-changer. Imagine a world where your web browser extension uses AI to curate personalized content based on your browsing history and preferences, making your online experience more efficient and enjoyable. Additionally, AI-powered language translation add-ons could break down language barriers in real-time, facilitating seamless global communication. ",
+   "photo1":"https://iili.io/J9F3Kjj.jpg"},
+  {"desc2":"With the growth of AR and VR technologies, free add-ons are set to make immersive experiences even more accessible. Add-ons that enhance AR applications for education, entertainment, and practical tasks like interior design are on the horizon. VR gaming could benefit from add-ons that create custom environments, characters, and experiences, allowing gamers to craft their own virtual worlds.","photo2":"https://iili.io/J9F32yu.webp"},
+  {"desc3":"As IoT devices become more prevalent in our lives, free add-ons will play a pivotal role in managing and controlling smart home ecosystems. Picture an add-on for your smartphone that seamlessly integrates with all your IoT devices, offering a unified interface for controlling lights, thermostats, security systems, and more.","photo3":"https://iili.io/J9F3BCQ.jpg"},
+  {"desc4":"The health and well-being sector is also ripe for innovation through free add-ons. We can anticipate the development of add-ons that monitor and provide personalized health insights. For instance, a fitness tracking add-on for your smartwatch could analyze your exercise routine and nutrition, offering tailored advice to help you achieve your wellness goals.","photo4":"https://iili.io/J9F3dve.webp"},
+  {"desc5":"As sustainability becomes a global imperative, free add-ons will likely emerge to support eco-conscious living. These could include add-ons that calculate your carbon footprint, suggest eco-friendly shopping alternatives, or even gamify sustainable practices to encourage broader adoption. ser","photo5":"https://iili.io/J9F3fZx.webp"},
+  {"descd":"Cybersecurity and privacy will remain hot-button issues, and free add-ons will continue to evolve to meet these challenges. We can anticipate more sophisticated encryption and anonymity tools, ensuring our online presence remains secure from prying eyes.","photod":"https://iili.io/J9F3FTb.webp"}
    ]
  
 }
